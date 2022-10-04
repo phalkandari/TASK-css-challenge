@@ -1,0 +1,26 @@
+.harry-potter-bg {
+    background-color:#1B0C2C;
+    padding-top: 20px;
+}
+
+.harry-potter-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    border-radius: 10px
+}
+
+.h1-text {
+    text-align: center;
+    color: white;
+    font-family: 'Peralta', cursive;
+
+}
+
+.p-text {
+    text-align: center;
+    color: white;
+    font-family: 'Peralta', cursive;
+    
+}
